@@ -11,6 +11,6 @@
 4º passo: geth --fast --cache 512 --networkid 2133 --datadir C:\Users\renan.kruger\Desktop\Rede\Blockchain --rpc --rpccorsdomain="*" --rpcaddr "0.0.0.0" --port 30303 console
  
  
-geth attach ipc:\.\pipe\geth.ipc "
+geth attach ipc:\.\pipe\geth.ipc
 
 
