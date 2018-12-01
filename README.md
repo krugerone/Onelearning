@@ -1,6 +1,6 @@
 # Onelearning
  This git is for learning purpose.
- Contains a hello world contract.
+ Contains a genesis.json.
  
 1º passo: geth --datadir C:\Users\USERID\Desktop\Rede\Blockchain init C:\Users\USERID\Desktop\Rede\Genesis\genesis.json
  
